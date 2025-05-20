@@ -1,4 +1,4 @@
-# ESP32 MQTT over TLS Secure Communication
+# ESP32 MQTT over TLS Secure Communication for military
 
 ## Overview
 
@@ -105,4 +105,5 @@ Vanity URL name LinkedIn
 ---
 
 *Powered by ESP32, MQTT, and TLS encryption — Securing the future of IoT.*
+ 
 
