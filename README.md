@@ -1,4 +1,4 @@
-# ESP32 MQTT over TLS Secure Communication for military
+# ESP32 MQTT over TLS Secure Communication
 
 ## Overview
 
